@@ -9,6 +9,16 @@
 
 
 
+
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erico-ke&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=erico-ke&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erico-ke&theme=blueberry)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=erico-ke&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=erico-ke&theme=blueberry&utcOffset=8)
+
+
+
 </p>
 
 <h3 aling="left">My mentors:</h3>
@@ -52,9 +62,3 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erico-ke&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=erico-ke&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erico-ke&theme=blueberry)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=erico-ke&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=erico-ke&theme=blueberry&utcOffset=8)
