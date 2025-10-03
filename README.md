@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Elias Rico Kergaravat</h1>
-<h3 align="center">A 42 Malaga student, passionate for coding and learning new skills.</h3>
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/5797fd4f-e8ef-4f9d-a0c0-e98777a4e1a2" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
