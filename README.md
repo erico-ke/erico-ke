@@ -2,43 +2,6 @@
 
 ---
 
-### 🌐 Connect with me
-
-<p align="left">
-  <a href="https://linkedin.com/in/erico-ke" target="blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-  <a href="https://github.com/erico-ke" target="blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-  </a>
-  <a href="https://devpost.com/eliasricokergaravat?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank">
-    <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" alt="devpost"/>
-  </a>
-</p>
-
----
-
-### 📊 Stats
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erico-ke&theme=blueberry" alt="Profile Details"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=erico-ke&theme=blueberry" alt="Repos per Language"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erico-ke&theme=blueberry" alt="Most Commit Language"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=erico-ke&theme=blueberry" alt="Stats"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=erico-ke&theme=blueberry&utcOffset=8" alt="Productive Time"/>
-</p>
-
----
-
-### 🧠 My Mentors
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white" alt="42"/>
-  <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera"/>
-</p>
-
----
-
 ### 🧰 Languages and Tools
 
 #### 💻 Programming Languages
@@ -95,6 +58,43 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+</p>
+
+---
+
+### 📊 Stats
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erico-ke&theme=blueberry" alt="Profile Details"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=erico-ke&theme=blueberry" alt="Stats"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=erico-ke&theme=blueberry" alt="Repos per Language"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erico-ke&theme=blueberry" alt="Most Commit Language"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=erico-ke&theme=blueberry&utcOffset=8" alt="Productive Time"/>
+</p>
+
+---
+
+### 🧠 Mentors & Learning Platforms
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white" alt="42"/>
+  <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/erico-ke" target="blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="https://github.com/erico-ke" target="blank">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  </a>
+  <a href="https://devpost.com/eliasricokergaravat?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank">
+    <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" alt="devpost"/>
+  </a>
 </p>
 
 ---
